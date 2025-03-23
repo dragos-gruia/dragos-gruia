@@ -1,4 +1,4 @@
-I'm Dragos Gruia, a researcher working on the intersection between digital health and computational neuroscience. I’m a big fan of open-source projects as they expand the accessibility and impact of research. Below are some of the projects I have been involved in during my PhD:
+I'm Dragos Gruia, a researcher working on the intersection between digital health and computational neuroscience. I’m a big fan of open-source projects and of sharing knowledge with others. Below are some of the projects I have been involved in during my PhD:
 
 1. (2025)  - Led paper focused on applying mathematical modelling to solve challenges in remote digital health uptake https://github.com/dragos-gruia/computational_modelling_of_behaviour_in_stroke
 2. (2024)  - Led paper focused on developing a novel digital health assessment technology for estimating clinically-meaningful digital biomarkers in stroke survivors https://github.com/dragos-gruia/Development_of_digital_biomarkers_for_stroke
